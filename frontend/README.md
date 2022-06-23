@@ -25,6 +25,13 @@ To refer to the api's available on the backend use the following link
 ```
 http://chat.talkingmart.com:5004/docs
 ```
+To use swagger, click on `Authorize` on the top right corner and use the following credentials to access the api's:
+
+```
+api-key: secret
+username: candidate@talkingmart.com
+password: botsarereallyfun
+```
 
 # Task Instructions:
 
