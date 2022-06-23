@@ -11,6 +11,8 @@ cd frontend
 yarn
 yarn run serve
 ```
+
+
 ## Environment Variables
 ```shell
 VUE_APP_API_URL=http://chat.talkingmart.com:5004/api/
@@ -27,11 +29,13 @@ http://chat.talkingmart.com:5004/docs
 ```
 To use swagger, click on `Authorize` on the top right corner and use the following credentials to access the api's:
 
-```
-api-key: secret
-username: candidate@talkingmart.com
-password: botsarereallyfun
-```
+
+> *api-key*: **secret**
+> 
+> *username*: **candidate@talkingmart.com**
+> 
+> *password*: **botsarereallyfun**
+
 
 # Task Instructions:
 
@@ -39,3 +43,9 @@ password: botsarereallyfun
 
 # Submission Instructions:
 - Create a PR with the changes pushed to a fork of the repo
+- The evaluation criteria's are as follows:
+  - The code achieves the assigned task
+  - Bug free
+  - Code Quality
+  - Integration Quality
+  - Performance of the added components
