@@ -24,7 +24,7 @@ VUE_APP_UWES_ID=3356f22db50e472291d87eefe5260e7b
 ## Api Swagger 
 To refer to the api's available on the backend use the following link:
 
-[http://chat.talkingmart.com:5004/docs](#http://chat.talkingmart.com:5004/docs)
+> [http://chat.talkingmart.com:5004/docs](http://chat.talkingmart.com:5004/docs)
 
 To use swagger, click on `Authorize` on the top right corner and use the following credentials to access the api's:
 
