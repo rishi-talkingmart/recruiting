@@ -1,12 +1,15 @@
 # workflow-frontend
 Frontend components for the workflow tooling including UWES
 
-#setup-intstructions
-Setup env variables
-Install Yarn if not already
-Run "yarn" command
-Run "yarn run serve" command
-
+# Setup-intstructions
+- Clone the repo
+- Setup the environment variables as given below
+- Install Yarn if not already installed
+- After that run the folowing commands to run the code
+```shell
+yarn
+yarn run serve
+```
 # Environment Variables
 ```shell
 VUE_APP_API_URL=http://chat.talkingmart.com:5004/api/
